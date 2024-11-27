@@ -3,4 +3,5 @@ whoami
 uptime
 uname
 sudo -i
-  
+vim
+passwd
