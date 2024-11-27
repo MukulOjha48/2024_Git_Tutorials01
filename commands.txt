@@ -1,0 +1,6 @@
+pwd
+whoami
+uptime
+uname
+sudo -i
+  
